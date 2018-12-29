@@ -28,8 +28,9 @@ int main()
         toplam+=a[i];
     }
     // ÇIKTILAR
+    float ortalama=(float)toplam/5;
     printf("En buyuk sayi %d\n",eb);
     printf("En kucuk sayi %d\n",ek);
     printf("Toplamlari %d\n",toplam);
-    printf("Ortalamalari %d\n",toplam/5);
+    printf("Ortalamalari %f\n",ortalama);
 }
