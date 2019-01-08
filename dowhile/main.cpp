@@ -4,7 +4,7 @@ int main()
 {
     int x=0;
     do{
-        printf("SELAM CANIM BEN AMCANIM\n");
+        printf("5 KERE MERHABA\n");
         x++;
     }
     while(x<5);
